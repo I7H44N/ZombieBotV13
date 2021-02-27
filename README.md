@@ -1,3 +1,6 @@
+still in development have to upload many files do not clone as the tool wont work
+
+
 # Zombi Bot v13
 # If u have problem in BOT
 # Contact me ?
